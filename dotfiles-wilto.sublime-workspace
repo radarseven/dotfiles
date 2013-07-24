@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"array_key",
+				"array_keys"
+			],
+			[
+				"entry",
+				"entry_params"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"getSub",
+				"getSubproductsInfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Git Pull",
+	"command_palette":
+	{
+		"height": 50.0,
+		"selected_items":
+		[
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git statu",
+				"Git: Status"
+			],
+			[
+				"css",
+				"Sort via CSScomb"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"goto",
+				"Goto Documentation"
+			],
+			[
+				"git ch",
+				"Git: Change Branch"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"git ",
+				"Git: Log All"
+			],
+			[
+				"git bran",
+				"Git: Change Branch"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git cc",
+				"Git: Custom Command"
+			],
+			[
+				"snippet config",
+				"Snippet: config EE2"
+			],
+			[
+				"snippet",
+				"Snippet: config"
+			],
+			[
+				"git ban",
+				"Git: Change Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Git status",
+				"Git: Status"
+			],
+			[
+				"Git commit",
+				"Git: Commit"
+			],
+			[
+				"zen",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntax htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"zend",
+				"Set Syntax: ZenCoding"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"git branch",
+				"Git: Change Branch"
+			],
+			[
+				"Git branch",
+				"Git: Change Branch"
+			],
+			[
+				"Git",
+				"Git: Pull Current Branch"
+			],
+			[
+				"snippe coba",
+				"Snippet: Cobalt Route"
+			],
+			[
+				"Snippet: Cobal",
+				"Snippet: Cobalt Route"
+			],
+			[
+				"SNIppet coba",
+				"Snippet: Cobalt Route"
+			],
+			[
+				"snippet php",
+				"Snippet: PHP Comment"
+			],
+			[
+				"Snippet P",
+				"Snippet: PHP Comment"
+			],
+			[
+				"Snippet",
+				"Snippet: Comment"
+			],
+			[
+				"Snippet de",
+				"Snippet: define(…, …)"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"",
+				"Git: Custom Command"
+			],
+			[
+				"g",
+				"Git: Commit"
+			],
+			[
+				"Git: St",
+				"Git: Status"
+			],
+			[
+				"Git: stat",
+				"Git: Status"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"PackageC",
+				"Package Control: Discover Packages"
+			],
+			[
+				"SNIppet",
+				"Snippet: return"
+			],
+			[
+				"Snippet: 	",
+				"Snippet: echo \"…\""
+			],
+			[
+				"SNippet",
+				"Snippet: Class"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michael/.dotfiles/backup_excludes.txt",
+		"/Users/michael/.dotfiles/bash/bash_aliases",
+		"/Users/michael/.dotfiles/bash/inputrc",
+		"/Users/michael/.dotfiles/bash/bashrc",
+		"/Users/michael/.dotfiles/bash/bash_prompt",
+		"/Users/michael/Library/Caches/Cleanup At Startup/Transmit/28D5782D-F2E8-4DCC-88E2-AC5EC051F4D2/adLDAP.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/faith-for-all-of-life/issue.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/datafeed-test.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/scripts.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/dashboard/transactions.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/datafeed-import.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/datafeed.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/sso.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/config/routes.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/cart.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/dashboard/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/account.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/store.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/addons/modules/downloads.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/default.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/config/foxycart.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/global.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/layouts/default.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/dashboard/articles.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/item.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/category.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/controllers/default.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/hooks/session.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/hooks/calculate_url.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/_media/css/scss/site-layout.scss",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/_media/css/scss/screen.scss",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Entry.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/log/2013-07-08.log",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/log/2013-02-25.log",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/log/2013-02-26.log",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/cache/.gitignore",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/EntriesObject.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Entries.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/admin/routes/entries.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/admin/controllers/admin.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Object.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Input.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/helpers/is.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/_sql/well_chalcedon.sql",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/category.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/cache/.DS_Store",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/helpers/arr.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/database.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Field.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/sidenav.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/_sidebar-guest.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/_sidebar-account.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/albums.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/album.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/config.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/error.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/routes/blog.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/addons/modules/transactions.php",
+		"/Users/michael/Sites/Synergema/P2P/peopletopeople.com/P2P-Cobalt.sublime-project",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/.gitignore",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/listing.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/layouts/store-new.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/album.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store-new/detail.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default.staging/config/routes.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/chalcedon.sublime-project",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/git-remote.sh",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/build.sh",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/pull.sh",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/store/sidenav.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/.git/config",
+		"/Users/michael/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/tmp/thumb/.gitignore",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/database.php.ref.html",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default.staging/layouts/default.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default.staging/routes/default.php",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/layouts/default.phtml.bak",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/newsletter.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/_media/js/scripts.js",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/.htaccess",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/donate/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/donate/page.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/home/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/live/index.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/_media/live/skin/glow.xml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/_media/live/Law_Liberty640x360.jpg",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/layouts/live.phtml",
+		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/system/libraries/Zend/Db/Adapter/Pdo/Abstract.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/libraries/Template.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/config/config.master.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/config/config.local.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/default_site/feed.group/test.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/mod.syn_fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/config/config.env.php",
+		"/Users/michael/Desktop/parse-issue.md",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/ext.syn_fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/playa/mod.playa.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/authors_bio.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/stash/mod.stash.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_social_meta/mod.syn_social_meta.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/ext.low_variables.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/config.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/base.low_variables.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/ce_cache/ext.ce_cache.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/mod.low_variables.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/playa/helper.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_social_meta/upd.syn_social_meta.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/mcp.syn_fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/config.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/default_site/test/index.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/log.md",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/page_scripts/script_article_load_home.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/readme.md",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/default_site/authors.group/index.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/controllers/section_listing.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/article_single.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/article_listing.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/snippets/default_site/articles/fb_comment_count_single.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/authors_listing.html",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/language/english/lang.fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/helper.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/mod.fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/upd.fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/mcp.fb_comments.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/views/index.php",
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/upd.syn_fb_comments.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates,/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/layouts",
+			"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates",
+			"",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"customCategoryName",
+			"\n",
+			"SITE_SEGMENT",
+			"site_segment",
+			"store-new",
+			"sale_price",
+			"isDiscounted",
+			"var_dump",
+			"fields_products",
+			"$this",
+			"folder_exclude",
+			"research_book",
+			"id=\"table-of-contents",
+			"newsletter",
+			"store-header",
+			"intro",
+			"support",
+			"show",
+			"time",
+			"btn",
+			"class=\"right\"",
+			"manuals",
+			"downloads",
+			"download",
+			"downloads",
+			"tab-top",
+			"slide-top",
+			"slide",
+			"mac"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"class=\"pull-right\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.git":
+	{
+		"height": 215.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"store",
+				"httpdocs/application/default/routes/store.php"
+			],
+			[
+				"routes",
+				"httpdocs/application/default/config/routes.php"
+			],
+			[
+				"entry",
+				"httpdocs/system/libraries/Entry.php"
+			],
+			[
+				"store.",
+				"httpdocs/application/default/routes/store.php"
+			],
+			[
+				"entries",
+				"httpdocs/system/libraries/Entries.php"
+			],
+			[
+				"objec",
+				"httpdocs/system/libraries/Object.php"
+			],
+			[
+				"input",
+				"httpdocs/system/libraries/Input.php"
+			],
+			[
+				"is",
+				"httpdocs/system/helpers/is.php"
+			],
+			[
+				"object",
+				"httpdocs/system/libraries/Object.php"
+			],
+			[
+				"arr",
+				"httpdocs/system/helpers/arr.php"
+			],
+			[
+				"field",
+				"httpdocs/system/libraries/Field.php"
+			],
+			[
+				"global",
+				"httpdocs/application/default/routes/global.php"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"abstract",
+				"httpdocs/system/libraries/Zend/Db/Adapter/Pdo/Abstract.php"
+			],
+			[
+				"mod.syn",
+				"system/expressionengine/third_party/syn_fb_comments/mod.syn_fb_comments.php"
+			],
+			[
+				"test",
+				"templates/default_site/feed.group/test.html"
+			],
+			[
+				"template",
+				"system/expressionengine/libraries/Template.php"
+			],
+			[
+				"mod.syn_fb",
+				"system/expressionengine/third_party/syn_fb_comments/mod.syn_fb_comments.php"
+			],
+			[
+				"mod.syn_",
+				"system/expressionengine/third_party/syn_fb_comments/mod.syn_fb_comments.php"
+			],
+			[
+				"",
+				"gcd-ee.sublime-workspace"
+			],
+			[
+				"scripts",
+				"_media/js/script.js"
+			],
+			[
+				"site-",
+				"_media/css/site-layout.less"
+			],
+			[
+				"default",
+				"application/alwaysbesafe/routes/default.php"
+			],
+			[
+				"footer",
+				"application/default/templates/_inc/footer.phtml"
+			],
+			[
+				"script",
+				"_media/default/js/script.js"
+			],
+			[
+				"article",
+				"application/default/templates/knowledgebase/article.phtml"
+			],
+			[
+				"product",
+				"application/default/templates/products/_product.phtml"
+			],
+			[
+				"data",
+				"application/database.php"
+			],
+			[
+				"config.php",
+				"application/config.php"
+			],
+			[
+				"dataase",
+				"application/database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"dot",
+				"/Users/michael/bin/dotfiles/dotfiles.sublime-project"
+			],
+			[
+				"seo",
+				"/Users/michael/Sites/Synergema/seoportal.dev/seo.sublime-project"
+			],
+			[
+				"statamic",
+				"/Users/michael/Sites/CMS/Statamic/Add-Ons/Mandrill Form/Statamic-Mandrill-Form-Add-On.sublime-project"
+			],
+			[
+				"acfea",
+				"/Users/michael/Sites/Synergema/acfea.com/acfea.sublime-project"
+			],
+			[
+				"p2p",
+				"/Users/michael/Sites/Synergema/P2P/peopletopeople.com/P2P-Cobalt.sublime-project"
+			],
+			[
+				"stat",
+				"/Users/michael/Sites/Playground/statamic-1.4.2/statamic.sublime-project"
+			],
+			[
+				"mandril",
+				"/Users/michael/Sites/CMS/Statamic/Add-Ons/Mandrill Form/Statamic-Mandrill-Form-Add-On.sublime-project"
+			],
+			[
+				"ire",
+				"/Users/michael/Sites/Personal/ireland.mreiner.me/ireland.mreiner.me.sublime-project"
+			],
+			[
+				"",
+				"/Users/michael/Sites/Personal/ireland.mreiner.me/ireland.mreiner.me.sublime-project"
+			],
+			[
+				"dotfi",
+				"/Users/michael/bin/dotfiles/dotfiles.sublime-project"
+			],
+			[
+				"recru",
+				"/Users/michael/Sites/Synergema/recurlyapi/recurlyapi.sublime-project"
+			],
+			[
+				"fsn",
+				"/private/var/folders/3_/jbpvy0jj4970_skyn6lvj2680000gn/T/com.apple.mail/com.apple.mail.drag-T0x7f9068410a30.tmp.zmlZph/reintroduce.synergema.com.sublime-project"
+			],
+			[
+				"rein",
+				"/Users/michael/Sites/Synergema/reintroduce.synergema.com/reintroduce.synergema.com.sublime-project"
+			]
+		],
+		"width": 603.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true
+}
