@@ -239,7 +239,7 @@
 				"Snippet: Class"
 			]
 		],
-		"width": 435.0
+		"width": 579.0
 	},
 	"console":
 	{
@@ -256,11 +256,38 @@
 	},
 	"file_history":
 	[
-		"/Users/michael/.dotfiles/backup_excludes.txt",
+		"/Users/michael/.dotfiles/bash/functions/spinup",
+		"/Users/michael/.dotfiles/bash/functions/cleanup",
+		"/Users/michael/.dotfiles/bin/osxdefaults",
+		"/Users/michael/Sites/Synergema/quiplabs.com/quiplabs.com.sublime-project",
+		"/Users/michael/Sites/Synergema/Satori Design/swiftspaceinc.com/swiftspaceinc.com.sublime-project",
 		"/Users/michael/.dotfiles/bash/bash_aliases",
-		"/Users/michael/.dotfiles/bash/inputrc",
+		"/Users/michael/Sites/Synergema/JTF/templetonreport.org.sublime-project",
+		"/Users/michael/.dotfiles/bash/bash_paths",
+		"/Users/michael/.dotfiles/lib/brew",
+		"/Users/michael/.dotfiles/bin/dotfiles",
+		"/Users/michael/.dotfiles/bin/appinstall",
 		"/Users/michael/.dotfiles/bash/bashrc",
 		"/Users/michael/.dotfiles/bash/bash_prompt",
+		"/Users/michael/.dotfiles/bin/backup",
+		"/Users/michael/.dotfiles/bash/functions/datauri",
+		"/Users/michael/.dotfiles/ssh/config",
+		"/Users/michael/Sites/Playground/statamic-1.4.2/statamic.sublime-project",
+		"/Users/michael/Sites/Synergema/JTF/Templeton Reports/TR.sublime-project",
+		"/Users/michael/bin/dotfiles.bak/dotfiles.sublime-project",
+		"/Users/michael/Sites/Personal/radarseven.github.io/radarseven.github.io.sublime-project",
+		"/Users/michael/.dotfiles/bash/bash_profile",
+		"/Users/michael/.dotfiles/bash/inputrc",
+		"/Users/michael/.dotfiles/bash/bash_config",
+		"/Users/michael/Sites/Synergema/aexgroup.net/composer.json",
+		"/Users/michael/Library/Caches/Cleanup At Startup/Transmit/5390EB5B-8AB7-4352-A851-761355966163/default.phtml",
+		"/Users/michael/Library/Caches/Cleanup At Startup/Transmit/DFA943CC-CA00-489F-A6D5-BD9589AE31E6/config.php",
+		"/Users/michael/.dotfiles/git/gitignore",
+		"/Users/michael/.dotfiles/.gitignore",
+		"/Users/michael/.dotfiles/git/gitattributes",
+		"/Users/michael/.dotfiles/git/gitconfig",
+		"/Users/michael/.dotfiles/lib/help",
+		"/Users/michael/.dotfiles/backup_excludes.txt",
 		"/Users/michael/Library/Caches/Cleanup At Startup/Transmit/28D5782D-F2E8-4DCC-88E2-AC5EC051F4D2/adLDAP.php",
 		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/faith-for-all-of-life/issue.phtml",
 		"/Users/michael/Sites/Synergema/chalcedon.edu/httpdocs/application/default/templates/foxycart/datafeed-test.phtml",
@@ -356,34 +383,7 @@
 		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/ext.syn_fb_comments.php",
 		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/playa/mod.playa.php",
 		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/authors_bio.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/stash/mod.stash.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_social_meta/mod.syn_social_meta.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/ext.low_variables.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/config.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/base.low_variables.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/ce_cache/ext.ce_cache.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/low_variables/mod.low_variables.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/playa/helper.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_social_meta/upd.syn_social_meta.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/mcp.syn_fb_comments.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/config.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/default_site/test/index.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/log.md",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/page_scripts/script_article_load_home.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/readme.md",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/default_site/authors.group/index.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/controllers/section_listing.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/article_single.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/article_listing.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/snippets/default_site/articles/fb_comment_count_single.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/templates/stash/partials/authors_listing.html",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/language/english/lang.fb_comments.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/helper.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/mod.fb_comments.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/upd.fb_comments.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/mcp.fb_comments.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/fb_comments/views/index.php",
-		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/syn_fb_comments/upd.syn_fb_comments.php"
+		"/Users/michael/Sites/Synergema/P2P/globalcitizendaily.com/system/expressionengine/third_party/stash/mod.stash.php"
 	],
 	"find":
 	{
@@ -405,6 +405,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"archive",
+			"54.235.220.158",
+			"rack",
+			"syn-aws",
+			"aws",
+			"dev",
+			"aws",
+			"mammp",
+			"php",
+			"sounds",
+			"syn-aws",
+			"ssh",
+			"fsn",
+			"globemed",
+			"racks",
+			"trash",
+			"mt",
+			"dv",
 			"customCategoryName",
 			"\n",
 			"SITE_SEGMENT",
@@ -635,12 +653,52 @@
 		"selected_items":
 		[
 			[
+				"swif",
+				"/Users/michael/Sites/Synergema/Satori Design/swiftspaceinc.com/swiftspaceinc.com.sublime-project"
+			],
+			[
+				"templet",
+				"/Users/michael/Sites/Synergema/JTF/templetonreport.org.sublime-project"
+			],
+			[
+				"stat",
+				"/Users/michael/Sites/Playground/statamic-1.4.2/statamic.sublime-project"
+			],
+			[
+				"tr",
+				"/Users/michael/Sites/Synergema/JTF/templetonreport.org.sublime-project"
+			],
+			[
+				"aex",
+				"/Users/michael/Sites/Synergema/aexgroup.net/aexgroup.net.sublime-project"
+			],
+			[
+				"grunt",
+				"/Users/michael/.grunt-init/codekitkillah/grunt-init-codekitkillah.sublime-project"
+			],
+			[
+				"love",
+				"/Users/michael/Sites/Synergema/loveyoursac.com/loveyoursac.com.sublime-project"
+			],
+			[
+				"aexgroup",
+				"/Users/michael/Sites/Synergema/aexgroup.net/aexgroup.net.sublime-project"
+			],
+			[
+				"mye",
+				"/Users/michael/Sites/Synergema/myemmanuel.net/myemmanuel.net.sublime-project"
+			],
+			[
 				"dot",
-				"/Users/michael/bin/dotfiles/dotfiles.sublime-project"
+				"/Users/michael/.dotfiles/dotfiles-wilto.sublime-project"
 			],
 			[
 				"seo",
 				"/Users/michael/Sites/Synergema/seoportal.dev/seo.sublime-project"
+			],
+			[
+				"wilto",
+				"/Users/michael/.dotfiles/dotfiles-wilto.sublime-project"
 			],
 			[
 				"statamic",
@@ -653,10 +711,6 @@
 			[
 				"p2p",
 				"/Users/michael/Sites/Synergema/P2P/peopletopeople.com/P2P-Cobalt.sublime-project"
-			],
-			[
-				"stat",
-				"/Users/michael/Sites/Playground/statamic-1.4.2/statamic.sublime-project"
 			],
 			[
 				"mandril",
