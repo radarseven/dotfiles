@@ -190,7 +190,19 @@ Host chalcedon
 # Synergema AWS	
 #--------------------------------------------
 
-# Synergema AWS - Ubuntu Canoical
+Host 			syn-aws-dev
+	HostName	54.225.129.48
+	User		ubuntu
+	Port		22
+	IdentityFile	~/.ssh/synergemaAWS.pem
+
+Host 			syn-aws-internal
+	HostName	184.72.244.249
+	User		ubuntu
+	Port		22
+	IdentityFile	~/.ssh/synergemaAWS.pem
+
+# Synergema AWS - Ubuntu Canonical
 Host 			syn-aws
 	HostName	50.112.96.109
 	User		ubuntu
@@ -205,11 +217,11 @@ Host 			syn-aws-tmp
 	IdentityFile	~/.ssh/synergemaAWS.pem	
 
 # Synergema AWS - Internal Instance
-Host 			syn-aws-internal
-	HostName 	184.72.244.249
-	User		ubuntu
-	Port 		22
-	IdentityFile	~/.ssh/synergemaAWS.pem
+# Host 			syn-aws-internal
+# 	HostName 	54.225.129.48
+# 	User		ubuntu
+# 	Port 		22
+# 	IdentityFile	~/.ssh/synergemaAWS.pem
 
 # Synergema AWS - MyPlaneSpace
 Host 			aws-myplanespace
@@ -220,6 +232,15 @@ Host 			aws-myplanespace
 
 # AWS Instance
 #------------------
+
+# GlobeMed (globemed.org)
+#------------------
+Host 			syn-aws-3si
+	HostName	54.197.245.196
+	User		ubuntu
+	Port		22
+	IdentityFile	~/.ssh/synergemaAWS.pem
+
 # GlobeMed (globemed.org)
 #------------------
 Host 			syn-aws-globemed
@@ -240,6 +261,14 @@ Host 			syn-aws-fsn
 #---------------------
 Host 			syn-aws-dev
 	HostName	54.225.129.48
+	User		ubuntu
+	Port		22
+	IdentityFile	~/.ssh/synergemaAWS.pem
+
+# AWS Barnabas
+#---------------------
+Host 			syn-aws-barnabas
+	HostName	50.57.43.78
 	User		ubuntu
 	Port		22
 	IdentityFile	~/.ssh/synergemaAWS.pem
@@ -336,3 +365,8 @@ Host 			tr
 	HostName 	jtflnapp2.templeton.org
 	User 		legacy
 	Port 		22
+
+# NephCure Legacy Site
+Host 			nephcure
+	HostName 	216.70.82.245
+	User 		brandon_ssh
