@@ -5,7 +5,7 @@
 # Directories to be prepended to PATH
 declare -a dirs_to_prepend=(
     "/usr/local/bin" # Ensure that this bin always takes precedence over `/usr/bin`
-    "/Applications/MAMP/bin/php/php5.4.10/bin"
+    "/Applications/MAMP/bin/php/php5.4.26/bin"
 )
 
 # Directories to be appended to PATH
